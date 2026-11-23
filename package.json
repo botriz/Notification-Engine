@@ -1,0 +1,8 @@
+{
+  "name": "suraya-notification-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node --test", "check": "node --check notification-engine.js && node --test" }
+}
